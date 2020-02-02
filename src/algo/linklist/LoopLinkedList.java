@@ -1,5 +1,6 @@
 package algo.linklist;
 
+import java.util.LinkedList;
 
 public class LoopLinkedList 
 { 
